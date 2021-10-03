@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis
 Sarah McCoy
 
 ## [Project 1: Automation of Timetable Reconfigurations](https://github.com/slmccoy/timetable.git)
