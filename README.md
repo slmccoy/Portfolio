@@ -7,4 +7,4 @@ Sarah McCoy
 - The required short term changes were then created.
 - An output excel file was then created to present changes in a readable manor to be shared with the school.
 
-![](https://github.com/slmccoy/Portfolio/blob/main/images/example_output.jpg)
+![](images/example_output.jpg)
