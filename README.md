@@ -19,4 +19,4 @@ In order to allow the process to be automated more widely by other memebers of s
 - Code to play both the game and regenerate the grid are written in VBA.
 - Idea: As you travel through the maze and find flags you get codes, collect all of the codes within the time to win.
 
-![](images/maze.jpg)
+![](images/maze_output.jpg)
