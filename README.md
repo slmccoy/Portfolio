@@ -8,3 +8,10 @@ Sarah McCoy
 - An output excel file was then created to present changes in a readable manor to be shared with the school.
 
 ![](images/example_output.jpg)
+
+## Project 2: VBA Maze Game
+- Project to create an exciting excel game as an opening lesson for an introduction to **VBA/Excel** course.
+- Code to play both the game and regenerate the grid are written in VBA.
+- Idea: As you travel through the maze and find flags you get codes, collect all of the codes within the time to win.
+
+![](images/maze.jpg)
