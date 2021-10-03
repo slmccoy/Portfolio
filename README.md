@@ -7,7 +7,7 @@ Sarah McCoy
 - The required short term changes were then created.
 - An output excel file was then created to present changes in a readable manor to be shared with the school.
 
-![](images/example_output.jpg)
+![](images/timetable.jpg)
 
 ## [Project 2: Timetable Regconfiguration (VBA)](https://github.com/slmccoy/vba_timetable.git)
 In order to allow the process to be automated more widely by other memebers of staff, the process needed to be written into and run directly within a speadsheet. This spreadsheet and vba code runs a very similar reconfiguration process as the previous python project.
