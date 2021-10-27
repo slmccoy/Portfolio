@@ -5,7 +5,7 @@ Sarah McCoy
 - This project involed taking data from excel, loading it into Tableau and then creating a dashboard highlighting sales and profits across stores, by state, in the US.
 - This project was completed as part of a course authorized by Coursera Project Network.
 
-![](image/data_dashboard.jpg)
+![](images/data_dashboard.jpg)
 
 
 ## [Project 2: Automation of Timetable Reconfigurations](https://github.com/slmccoy/timetable.git)
