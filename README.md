@@ -2,7 +2,7 @@
 Sarah McCoy
 
 ## [Project 1: KPI Dashboard (Sales and Profits)](https://public.tableau.com/views/SalesandProfitManagementDashboard_16353345974800/SalesProfitDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-- This project involed taking data from excel, loading it into Tableau and then creating a dashboard highlighting sales and profits across stores, by state, in the US.
+- This project involed taking data from excel, loading it into **Tableau** and then creating a dashboard highlighting sales and profits across stores, by state, in the US.
 - This project was completed as part of a course authorized by Coursera Project Network.
 
 ![](images/data_dashboard.jpg)
