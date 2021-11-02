@@ -1,7 +1,7 @@
 # Data Analysis/Software Engineering
 Sarah McCoy
 
-##[Current Project: Spotify Data Analysis](https://github.com/slmccoy/Spotify_data_analysis.git)
+## [Current Project: Spotify Data Analysis](https://github.com/slmccoy/Spotify_data_analysis.git)
 In this project I want to analyse some data gained for the Spotify API.
 I have slightly re-written the API class I wrote previously to allow me to parse in the year.
 This means I have data by year for analysis.
