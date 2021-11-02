@@ -8,6 +8,8 @@ This means I have data by year for analysis.
 I then exported the pandas data frame into a csv file so I can being my analysis.
 I am now begining the analysis phase.
 
+![](images/Spotify_api_data_frame.jpg)
+
 ## [Project 1: Spotify API](https://github.com/slmccoy/spotify_api.git)
 - I decided to complete this project to explore the Spotify API.
 - The project included developing code to access the API, creating a structured API Class and Unit testing. 
