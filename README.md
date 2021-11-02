@@ -1,4 +1,4 @@
-# Data Analysis
+# Data Analysis/Software Engineering
 Sarah McCoy
 
 ## [Project 1: Spotify API](https://github.com/slmccoy/spotify_api.git)
